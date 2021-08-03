@@ -1,2 +1,6 @@
-# aula_javascript
-Introdução ao Javascript
+# Introdução ao Javascript
+
+Repositório da aula de JavaScript. 
+
+
+Professor: Rafael Galleani 
